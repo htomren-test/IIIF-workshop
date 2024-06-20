@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://htomren-test.github.io/IIIF-workshop/manifests/manifest2.json",
     "label" : "The Temple News, v.87:no.8 (1993-09-17)"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://htomren-test.github.io/IIIF-workshop/manifests/manifest3.json",
+    "label" : "The Temple News, v.87:no.8 (1993-09-17)"
   } ]
 }
