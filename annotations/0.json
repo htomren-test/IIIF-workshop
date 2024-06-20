@@ -1,0 +1,646 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "@id" : "https://htomren-test.github.io/IIIF-workshop/annotations/0.json",
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "@id" : "http://localhost:5500/annotations/0/annotation/0",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "¢"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3747,610,12,14"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/1",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "£"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3790,605,20,28"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/2",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "5."
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3746,639,23,36"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/3",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "&"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3796,647,6,14"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/4",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Interfaith"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3775,805,431,74"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/5",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Religious"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3690,945,244,66"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/6",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "council"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3956,945,188,49"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/7",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "gets"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=4178,952,105,60"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/8",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "recognized"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3693,1017,276,66"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/9",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "."
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3990,1057,7,7"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/10",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Friday,"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=994,1589,310,94"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/11",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "September"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=1345,1588,503,95"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/12",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "17,"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=1889,1591,91,86"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/13",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "1993"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=2023,1592,229,73"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/14",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Vol."
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=1216,1715,168,76"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/15",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "LXXXVIII"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=1428,1717,407,73"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/16",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "No."
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=1917,1717,148,73"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/17",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "8"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=2108,1718,50,74"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/18",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "‘Good"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3749,2411,256,77"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/19",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Lawd"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=4048,2412,261,75"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/20",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Morris"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3660,2530,207,70"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/21",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Day"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3890,2554,110,64"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/22",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "comes"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=4020,2568,152,33"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/23",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "to"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=4197,2558,44,43"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/24",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Philly"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3686,2624,159,66"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/25",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "to"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3867,2630,44,42"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/26",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "appear"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3930,2641,175,49"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/27",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "in"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=4125,2625,46,48"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/28",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "the"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=4197,2625,75,48"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/29",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Merriam"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3684,2697,233,47"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/30",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Theater's"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3942,2696,241,49"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/31",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "latest."
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=4222,2696,151,49"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/32",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : ">"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=4118,2776,35,33"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/33",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "page"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=4189,2772,85,57"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/34",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "@"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=4321,2766,65,68"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/35",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "HPERD"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3777,2906,293,71"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/36",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "College"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3696,3044,187,67"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/37",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "welcomes"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3902,3044,246,49"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/38",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "its"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=4187,3044,60,48"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/39",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "new"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=4269,3060,105,33"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/40",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "students"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3692,3116,222,49"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/41",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "with"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3934,3116,117,49"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/42",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "open"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=4072,3133,119,49"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/43",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "arms."
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=4213,3133,140,32"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/44",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : ">"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=4132,3197,54,33"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/45",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "pie"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=4202,3193,85,57"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/46",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "@"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=4339,3189,66,68"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/47",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Where"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=452,5188,385,100"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/48",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "are"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=883,5223,195,65"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/49",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "the"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=1125,5187,190,100"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/50",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "vendors"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=1361,5186,460,101"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/51",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "are"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=1869,5220,194,65"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/52",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "going"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=2112,5186,324,124"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/53",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "to"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=2491,5203,112,80"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/54",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "be"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=2651,5184,139,100"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/55",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "moved?"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=2839,5185,461,100"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/56",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "Their"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=455,5328,294,99"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/57",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "proposals"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=795,5326,560,125"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/58",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "have"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=1404,5326,289,98"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/59",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "gone"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=1740,5359,287,112"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/60",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "unanswered."
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=2075,5323,751,99"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/61",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "What"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=2874,5323,318,99"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/62",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : "next?"
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=3241,5327,330,96"
+  }, {
+    "@id" : "http://localhost:5500/annotations/0/annotation/63",
+    "@type" : "oa:Annotation",
+    "motivation" : "commenting",
+    "resource" : {
+      "@type" : "cnt:ContentAsText",
+      "format" : "text/plain",
+      "chars" : ""
+    },
+    "on" : "http://23fcb0d8-fe96-4d0a-bed6-0fe3dcc563f9#xywh=0,0,4884,6114"
+  } ]
+}
