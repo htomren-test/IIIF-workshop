@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://htomren-test.github.io/IIIF-workshop/annotations/bdda9de8d1bddd2c470fc737d69015d3.json" ],
+  "@id" : "https://htomren-test.github.io/IIIF-workshop/annotations/collection.json",
+  "label" : "All annotations loaded in htomren-test/IIIF-workshop project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
