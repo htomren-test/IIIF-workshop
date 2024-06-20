@@ -3,6 +3,11 @@
   "@id" : "https://htomren-test.github.io/IIIF-workshop/manifests/manifest4.json",
   "@type" : "sc:Manifest",
   "label" : "The Temple News, v.87:no.8 (1993-09-17)",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/173401946/477f3e568ee067d582e360b3907930ba/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Editorially independent student newspaper. ",
