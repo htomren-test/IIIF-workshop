@@ -1,0 +1,85 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://htomren-test.github.io/IIIF-workshop/manifests/testmanifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://107d8199-8296-4b38-b801-1e57e83cd52b",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://cb06f5f2-8ce3-4c80-be0c-c915365db5d5",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 7105,
+      "width" : 4998,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://51151be1-cd4f-4eb6-9fe1-ce29f6331c6f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cdm16002.contentdm.oclc.org/iiif/2/p15037coll19:5061/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cdm16002.contentdm.oclc.org/iiif/2/p15037coll19:5061",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 71021580,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 7105,
+          "width" : 4998
+        },
+        "on" : "http://cb06f5f2-8ce3-4c80-be0c-c915365db5d5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://3fb3c133-d89a-4fc9-a69e-0891dc6dd959",
+      "@type" : "sc:Canvas",
+      "label" : "Empty canvas",
+      "height" : 6519,
+      "width" : 4439,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://57244c2a-c83d-4fbc-b242-9a6c40e9cae1",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://cdm16214.contentdm.oclc.org/iiif/2/medieval:133/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://cdm16214.contentdm.oclc.org/iiif/2/medieval:133",
+            "profile" : [ "http://iiif.io/api/image/2/level2.json", {
+              "formats" : [ "jpg", "tif", "gif", "png" ],
+              "maxArea" : 57875682,
+              "qualities" : [ "bitonal", "default", "gray", "color" ],
+              "supports" : [ "regionByPx", "sizeByW", "sizeByWhListed", "cors", "regionSquare", "sizeByDistortedWh", "sizeAboveFull", "canonicalLinkHeader", "sizeByConfinedWh", "sizeByPct", "jsonldMediaType", "regionByPct", "rotationArbitrary", "sizeByH", "baseUriRedirect", "rotationBy90s", "profileLinkHeader", "sizeByForcedWh", "sizeByWh", "mirroring" ]
+            } ]
+          },
+          "height" : 6519,
+          "width" : 4439
+        },
+        "on" : "http://3fb3c133-d89a-4fc9-a69e-0891dc6dd959"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
